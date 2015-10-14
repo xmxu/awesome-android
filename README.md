@@ -1178,7 +1178,7 @@ And this project is not using the image file!
 
 1. **android-Ultra-Pull-To-Refresh**  It's a replacement for the deprecated pull to refresh solution.
 [https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)
-
+ 
 
 
 #### <A NAME="Toolbar"></A>Toolbar
